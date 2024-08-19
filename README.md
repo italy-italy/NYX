@@ -2,7 +2,6 @@
 
 Nyx is a lightweight and easy-to-use Roblox chat bypasser that allows you to bypass any chat filters. 
 
-
 ## Features
 - **Chat Bypasser:** Converts regular text into a bypassed version using a special character map.
 - **Clipboard Integration:** Automatically copies the bypassed text to your clipboard.
@@ -27,7 +26,10 @@ Nyx is a lightweight and easy-to-use Roblox chat bypasser that allows you to byp
    - `nyx [your text here]` - Converts the input text into a bypassed format and copies it to the clipboard.
    - `help` or `?` - Displays a list of available commands and their descriptions.
    - `quit` or `-q` - Exits the application.
-  
+
+## File Hash
+- **SHA-256 Hash:** `72c9113b579f667d9b7225b632ed9bed9141e6bf37b445d01cba57a6ead6323c`
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
